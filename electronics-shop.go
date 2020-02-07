@@ -11,6 +11,7 @@ import (
 
 /*
  * Complete the getMoneySpent function below.
+ * Ini diedit
  */
 func getMoneySpent(keyboards []int32, drives []int32, b int32) int32 {
     var maks int32 = -1
