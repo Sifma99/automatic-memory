@@ -27,6 +27,9 @@ func getMoneySpent(keyboards []int32, drives []int32, b int32) int32 {
 
 }
 
+klandlkawdnawkdlwankd
+awdawdaw
+
 func main() {
     reader := bufio.NewReaderSize(os.Stdin, 1024 * 1024)
 
