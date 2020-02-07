@@ -97,3 +97,7 @@ func checkError(err error) {
         panic(err)
     }
 }
+
+// Terserah 123123
+
+// terserah
